@@ -1,4 +1,2 @@
-﻿  varray.c
-f:\motiondev\dmmrec\test0815\wtestdev\testogl2\varray.c(28): warning C4305: “初始化”: 从“double”到“GLfloat”截断
-f:\motiondev\dmmrec\test0815\wtestdev\testogl2\varray.c(45): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+﻿  tex3d.c
   TestOgl.vcxproj -> F:\MotionDev\DmmRec\test0815\WTestdev\TestOgl2\Debug\TestOgl.exe
