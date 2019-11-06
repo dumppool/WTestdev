@@ -1,0 +1,47 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Mesh - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x40c /fo"Release/Mesh.res" /d "NDEBUG" /d "_AFXDLL" "D:\Pierre\Works\Src\Visual\Codeguru\DisplayLists\Src\Mesh.rc"" 
+Creating temporary file "C:\TEMP\RSP99B.tmp" with contents
+[
+opengl32.lib glu32.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/Mesh.pdb" /machine:I386 /out:"Release/Mesh.exe" 
+.\Release\Array3d.obj
+.\Release\ChildFrm.obj
+.\Release\Color.obj
+.\Release\ColorRamp.obj
+.\Release\Edge3d.obj
+.\Release\Face3d.obj
+.\Release\MainFrm.obj
+.\Release\Material.obj
+.\Release\Mesh.obj
+.\Release\Mesh3d.obj
+.\Release\MeshDoc.obj
+.\Release\MeshView.obj
+.\Release\Object3d.obj
+.\Release\ParserVrml.obj
+.\Release\SceneGraph3d.obj
+.\Release\StdAfx.obj
+.\Release\Texture.obj
+.\Release\Transform.obj
+.\Release\Utils3d.obj
+.\Release\Vector3d.obj
+.\Release\Vertex3d.obj
+.\Release\Mesh.res
+]
+Creating command line "link.exe @C:\TEMP\RSP99B.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+Mesh.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
